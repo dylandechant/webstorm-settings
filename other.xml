@@ -1,0 +1,35 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.4.0/bin/node">
+      <version-cache version="8.4.0" last-modified="1502815164000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v8.4.0/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.2.1/bin/node">
+      <version-cache version="8.2.1" last-modified="1501184637000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.1.4/bin/node">
+      <version-cache version="8.1.4" last-modified="1499744649000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v8.1.4/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v7.10.1/bin/node">
+      <version-cache version="7.10.1" last-modified="1499740951000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v7.10.0/bin/node">
+      <version-cache version="7.10.0" last-modified="1493776602000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v7.10.0/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.9.5/bin/node">
+      <version-cache version="6.9.5" last-modified="1485898076000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/6.2.2/bin/node">
+      <version-cache version="6.2.2" last-modified="1466174571000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="5.11.1" last-modified="1462484683000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.0.0/bin/node">
+      <version-cache version="4.0.0" last-modified="1441725837000" />
+    </local-interpreter>
+  </component>
+</application>
