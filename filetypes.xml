@@ -3,11 +3,9 @@
     <extensionMap>
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
