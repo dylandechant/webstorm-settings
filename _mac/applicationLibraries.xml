@@ -8,5 +8,16 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="uploader" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn01.boxcdn.net_platform_elements_3.5.2_en-US_uploader.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn01.boxcdn.net_platform_elements_3.5.2_en-US_uploader.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
