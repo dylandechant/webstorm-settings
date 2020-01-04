@@ -3,6 +3,7 @@
     <extensionMap>
       <removed_mapping pattern=".editorconfig" approved="true" type="EditorConfig" />
       <mapping ext="tfstate" type="JSON" />
+      <mapping ext="apex" type="JavaScript" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".env-staging" type="PLAIN_TEXT" />
