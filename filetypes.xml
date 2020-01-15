@@ -3,18 +3,18 @@
     <extensionMap>
       <removed_mapping pattern=".editorconfig" approved="true" type="EditorConfig" />
       <mapping ext="tfstate" type="JSON" />
-      <mapping ext="apex" type="JavaScript" />
-      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern=".env-staging" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping ext="dev" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env-staging" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
       <removed_mapping pattern=".editorconfig" approved="true" type="EditorConfig" />
+      <removed_mapping ext="apex" approved="true" type="JavaScript" />
     </extensionMap>
   </component>
 </application>
