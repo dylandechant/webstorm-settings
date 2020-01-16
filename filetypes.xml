@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="apex" type="AspectJ" />
       <removed_mapping pattern=".editorconfig" approved="true" type="EditorConfig" />
       <mapping ext="tfstate" type="JSON" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
