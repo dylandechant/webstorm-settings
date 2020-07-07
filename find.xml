@@ -16,7 +16,7 @@
     <mask>*.css</mask>
     <mask>*.slim</mask>
     <mask>*.yml</mask>
-    <mask>*.rb</mask>
     <mask>*.js</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
