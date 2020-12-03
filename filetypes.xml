@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
@@ -8,6 +8,7 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="qti" type="XML" />
       <mapping ext="opf" type="XML" />
+      <removed_mapping pattern=".env" approved="true" type="Env File" />
     </extensionMap>
   </component>
 </application>
