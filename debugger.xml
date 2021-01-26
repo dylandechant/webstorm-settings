@@ -10,7 +10,7 @@
       </debugger>
       <debugger id="ruby">
         <configuration>
-          <option name="timeout" value="120" />
+          <option name="timeout" value="10000" />
         </configuration>
       </debugger>
     </debuggers>
