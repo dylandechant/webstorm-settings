@@ -1,6 +1,8 @@
 <application>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <option name="showLibraryStackFrames" value="false" />
+    </data-views>
     <general />
     <debuggers>
       <debugger id="javascript">
@@ -11,6 +13,7 @@
       <debugger id="ruby">
         <configuration>
           <option name="timeout" value="10000" />
+          <option name="verboseOutput" value="true" />
         </configuration>
       </debugger>
     </debuggers>
