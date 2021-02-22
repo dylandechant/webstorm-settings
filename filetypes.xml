@@ -9,6 +9,7 @@
       <mapping ext="qti" type="XML" />
       <mapping ext="opf" type="XML" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
+      <removed_mapping pattern=".env.*" approved="true" type="Env File" />
     </extensionMap>
   </component>
 </application>
