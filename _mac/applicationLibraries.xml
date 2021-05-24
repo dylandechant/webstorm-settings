@@ -11348,6 +11348,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/grape-swagger-1.4.0/example" />
       </excluded>
     </library>
+    <library name="grape_on_rails_routes (v0.3.2, rbenv: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/grape_on_rails_routes-0.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/grape_on_rails_routes-0.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="graphiql-rails (v1.7.0, rbenv: 2.6.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
