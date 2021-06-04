@@ -9181,6 +9181,33 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/embeddable_content-08990c09e9d5/config" />
       </excluded>
     </library>
+    <library name="embeddable_content (v0.1.14@917c8b, rbenv: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/embeddable_content-917c8bf993a0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/embeddable_content-917c8bf993a0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/embeddable_content-917c8bf993a0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/embeddable_content-917c8bf993a0/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/embeddable_content-917c8bf993a0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/embeddable_content-917c8bf993a0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/embeddable_content-917c8bf993a0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/embeddable_content-917c8bf993a0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/embeddable_content-917c8bf993a0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/embeddable_content-917c8bf993a0/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/embeddable_content-917c8bf993a0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/embeddable_content-917c8bf993a0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/embeddable_content-917c8bf993a0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/embeddable_content-917c8bf993a0/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/embeddable_content-917c8bf993a0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/embeddable_content-917c8bf993a0/config" />
+      </excluded>
+    </library>
     <library name="embeddable_content (v0.1.3@2a33ec, rbenv: 2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
