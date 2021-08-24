@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="Aptfile" type="AUTO_DETECTED" />
       <mapping pattern="shell" type="AUTO_DETECTED" />
+      <mapping pattern="AptFile" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
