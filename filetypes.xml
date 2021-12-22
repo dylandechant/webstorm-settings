@@ -6,6 +6,7 @@
       <mapping pattern="AptFile" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern=".slugignore" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
