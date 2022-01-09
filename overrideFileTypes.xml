@@ -1,7 +1,9 @@
 <application>
   <component name="OverrideFileTypeManager">
-    <file url="file://$USER_HOME$/sites/cms_im/Aptfile" />
-    <file url="file://$USER_HOME$/sites/cms_im/Aptfile" />
-    <file url="file://$USER_HOME$/sites/cms_im/Aptfile" />
+    <file url="file://$USER_HOME$/sites/personal/DwellingKit/app/assets/stylesheets/application.tailwind.css" value="PostCSS" />
+    <file url="file://$USER_HOME$/sites/personal/DwellingKit/app/assets/stylesheets/components/actiontext.css" value="PostCSS" />
+    <file url="file://$USER_HOME$/sites/personal/DwellingKit/app/assets/stylesheets/components/alert.css" value="PostCSS" />
+    <file url="file://$USER_HOME$/sites/personal/DwellingKit/app/assets/stylesheets/components/animation.css" value="PostCSS" />
+    <file url="file://$USER_HOME$/sites/personal/DwellingKit/app/assets/stylesheets/components/announcements.css" value="PostCSS" />
   </component>
 </application>
