@@ -10,6 +10,7 @@
       <mapping pattern=".slugignore" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="ftl" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="icc" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
