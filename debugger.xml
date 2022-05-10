@@ -5,14 +5,14 @@
     </data-views>
     <general />
     <debuggers>
+      <debugger id="ruby">
+        <configuration>
+          <option name="timeout" value="10000000" />
+        </configuration>
+      </debugger>
       <debugger id="javascript">
         <configuration doNotStepIntoLibraryCode="false">
           <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="ruby">
-        <configuration>
-          <option name="timeout" value="10000" />
         </configuration>
       </debugger>
     </debuggers>
