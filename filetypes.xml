@@ -6,7 +6,6 @@
       <mapping pattern="shell" type="AUTO_DETECTED" />
       <mapping pattern="AptFile" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
-      <mapping ext="env" type="Env File" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".slugignore" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
@@ -24,6 +23,7 @@
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
+      <mapping ext="env" type="Env File" />
     </extensionMap>
   </component>
 </application>
