@@ -9,7 +9,6 @@
       <mapping pattern=".slugignore" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
-      <mapping ext="ftl" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="icc" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
@@ -19,6 +18,7 @@
       <mapping ext="qti" type="XML" />
       <mapping ext="opf" type="XML" />
       <mapping ext="github-actions" type="YAML" />
+      <removed_mapping ext="ftl" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
