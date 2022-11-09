@@ -12,6 +12,7 @@
       <w>passwordless</w>
       <w>rediscloud</w>
       <w>webpacker</w>
+      <w>zeitwerk</w>
     </words>
   </component>
 </application>
