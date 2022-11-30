@@ -16,10 +16,11 @@
     <mask>*.xml</mask>
     <mask>*.html</mask>
     <mask>*.yml</mask>
-    <mask>*.js</mask>
-    <mask>*.slim</mask>
     <mask>*.RB</mask>
     <mask>*.tsx</mask>
+    <mask>*.html.slim</mask>
+    <mask>*.js</mask>
+    <mask>*.slim</mask>
     <mask>*.rb</mask>
   </component>
 </application>
